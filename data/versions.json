@@ -2952,5 +2952,12 @@
       "timestamp": "2026-11-10T21:59:48.143377Z",
       "gameVersion": "2026.11.10.1176"
     }
+  ],
+  "alpha-froox": [
+    {
+      "manifestId": "3921887989012688773",
+      "timestamp": "2026-11-14T02:30:23.250252Z",
+      "gameVersion": null
+    }
   ]
 }
